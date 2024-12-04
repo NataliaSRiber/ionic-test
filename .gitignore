@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDEs
+.vscode/
+.idea/
+.project
+.settings/
+
+# Ionic specific
+.ionic/
+platforms/
+plugins/
+
+# Build output
+www/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.angular/
